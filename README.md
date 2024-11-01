@@ -1,1 +1,1 @@
-# VectorilyBoostrapper
+# Vectorily
